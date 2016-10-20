@@ -1,0 +1,4 @@
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\Iintegerlist\bin\Debug\Iintegerlist.dll
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\Iintegerlist\bin\Debug\Iintegerlist.pdb
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\Iintegerlist\obj\Debug\Iintegerlist.dll
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\Iintegerlist\obj\Debug\Iintegerlist.pdb

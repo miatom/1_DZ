@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\IGenericList\bin\Debug\IGenericList.dll
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\IGenericList\bin\Debug\IGenericList.pdb
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\IGenericList\obj\Debug\IGenericList.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\IGenericList\obj\Debug\IGenericList.dll
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\IGenericList\obj\Debug\IGenericList.pdb

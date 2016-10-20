@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\PrvaDZ\bin\Debug\PrvaDZ.exe.config
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\PrvaDZ\bin\Debug\PrvaDZ.exe
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\PrvaDZ\bin\Debug\PrvaDZ.pdb
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\PrvaDZ\obj\Debug\PrvaDZ.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\PrvaDZ\obj\Debug\PrvaDZ.exe
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\PrvaDZ\obj\Debug\PrvaDZ.pdb
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\PrvaDZ\bin\Debug\Iintegerlist.dll
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\PrvaDZ\bin\Debug\Iintegerlist.pdb
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\PrvaDZ\bin\Debug\IGenericList.dll
+C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\PrvaDZ\bin\Debug\IGenericList.pdb
