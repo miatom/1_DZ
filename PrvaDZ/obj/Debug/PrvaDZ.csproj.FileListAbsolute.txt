@@ -8,3 +8,6 @@ C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\PrvaDZ\bin\Debug\Iintegerlist.dll
 C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\PrvaDZ\bin\Debug\Iintegerlist.pdb
 C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\PrvaDZ\bin\Debug\IGenericList.dll
 C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\PrvaDZ\bin\Debug\IGenericList.pdb
+C:\Users\Lenovo\Documents\GitHub\1_DZ\PrvaDZ\bin\Debug\PrvaDZ.exe.config
+C:\Users\Lenovo\Documents\GitHub\1_DZ\PrvaDZ\obj\Debug\PrvaDZ.exe
+C:\Users\Lenovo\Documents\GitHub\1_DZ\PrvaDZ\obj\Debug\PrvaDZ.pdb

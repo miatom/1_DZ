@@ -30,3 +30,6 @@ C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\Monogame\bin\Windows\x86\Debug\SharpD
 C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\Monogame\obj\x86\Debug\Pong.csprojResolveAssemblyReference.cache
 C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\Monogame\obj\x86\Debug\Monogame.exe
 C:\Users\Lenovo\Google disk\faks\c#\PrvaDZ\Monogame\obj\x86\Debug\Monogame.pdb
+C:\Users\Lenovo\Documents\GitHub\1_DZ\Monogame\bin\Windows\x86\Debug\Monogame.exe.config
+C:\Users\Lenovo\Documents\GitHub\1_DZ\Monogame\obj\x86\Debug\Monogame.exe
+C:\Users\Lenovo\Documents\GitHub\1_DZ\Monogame\obj\x86\Debug\Monogame.pdb
